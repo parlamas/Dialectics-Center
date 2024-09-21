@@ -1,0 +1,4 @@
+/* src/app/globals.css */
+
+@import './globals-mobile.css' screen and (max-width: 768px);
+@import './globals-desktop.css' screen and (min-width: 769px);
