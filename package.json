@@ -1,5 +1,5 @@
 {
-  "name": "horistics",
+  "name": "dialectics",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@clerk/clerk-react": "^4.14.1",
-    "@clerk/nextjs": "^5.5.5",
+    "@clerk/nextjs": "^5.6.0",
     "@heroicons/react": "^2.1.5",
     "cors": "^2.8.5",
     "mongodb": "^6.9.0",
